@@ -22,13 +22,7 @@ origins =[
     "https://main.d12wuq988la98b.amplifyapp.com",
     "http://main.d12wuq988la98b.amplifyapp.com",
     "https://main.d12wuq988la98b.amplifyapp.com:4200",
-    "http://main.d12wuq988la98b.amplifyapp.com:4200",
-    "http://54.197.20.174:8000/",
-    "https://54.197.20.174:8000/",
-    "http://54.197.20.174:4200/",
-    "https://54.197.20.174:4200/",
-    "https://main.d12wuq988la98b.amplifyapp.com:8000",
-    "http://main.d12wuq988la98b.amplifyapp.com:8000",
+    "http://main.d12wuq988la98b.amplifyapp.com:4200"
 
     
 ]
@@ -36,7 +30,7 @@ origins =[
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=["*"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]
 )
