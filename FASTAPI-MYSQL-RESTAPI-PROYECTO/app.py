@@ -23,8 +23,12 @@ origins =[
     "http://main.d12wuq988la98b.amplifyapp.com",
     "https://main.d12wuq988la98b.amplifyapp.com:4200",
     "http://main.d12wuq988la98b.amplifyapp.com:4200",
-    "http://54.197.20.174/",
-    "https://54.197.20.174/"
+    "http://54.197.20.174:8000/",
+    "https://54.197.20.174:8000/",
+    "http://54.197.20.174:4200/",
+    "https://54.197.20.174:4200/",
+    "https://main.d12wuq988la98b.amplifyapp.com:8000",
+    "http://main.d12wuq988la98b.amplifyapp.com:8000",
 
     
 ]
