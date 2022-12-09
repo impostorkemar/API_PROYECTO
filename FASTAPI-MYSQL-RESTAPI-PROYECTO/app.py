@@ -19,7 +19,8 @@ origins =[
     "https://192.168.1.35:4200",
     "http://192.168.100.81:4200",
     "https://192.168.1.81:4200",
-    "https://main.d12wuq988la98b.amplifyapp.com"
+    "https://main.d12wuq988la98b.amplifyapp.com",
+    "http://main.d12wuq988la98b.amplifyapp.com"
 
     
 ]
